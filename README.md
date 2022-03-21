@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=300&section=header&text=Hi%20👋,%20I'm%20Muhammad%20Ammar%20Paracha&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:373f51,100:373f51&height=300&section=header&text=Hi%20👋,%20I'm%20Muhammad%20Ammar%20Paracha&fontSize=40&fontColor=eaceb2&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:43cea2,100:185a9d&height=300&section=footer&text=A%20Passionate%20Flutter%20Developer&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:373f51,100:373f51&height=300&section=footer&text=A%20Passionate%20Flutter%20Developer&fontSize=30&fontColor=eaceb2&animation=fadeIn)
 
 <!-- <h1 align="center">Hi 👋, I'm Muhammad Ammar Paracha</h1>
 <h3 align="center">A passionate Flutter Developer</h3> -->
@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-ammar-p&show_icons=true&locale=en" alt="m-ammar-p" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-ammar-p&show_icons=true&locale=en&layout=compact" alt="m-ammar-p" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-ammar-p&theme=calm&show_icons=true&locale=en" alt="m-ammar-p" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-ammar-p&theme=calm&show_icons=true&locale=en&layout=compact" alt="m-ammar-p" /></p>
 
 
 

@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Muhammad Ammar Paracha</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=300&section=header&text=Hi%20👋,%20I'm%20Muhammad%20Ammar%20Paracha&fontSize=40)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:43cea2,100:185a9d&height=300&section=footer&text=A%20passionate%20Flutter%20Ammar%20Developer&fontSize=30)
+
+<!-- <h1 align="center">Hi 👋, I'm Muhammad Ammar Paracha</h1>
+<h3 align="center">A passionate Flutter Developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-ammar-p&label=Profile%20views&color=0e75b6&style=flat" alt="m-ammar-p" 
 <span>

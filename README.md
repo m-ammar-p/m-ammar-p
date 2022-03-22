@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:373f51,100:373f51&height=300&section=header&text=Hi%20👋,%20I'm%20Muhammad%20Ammar%20Paracha&fontSize=40&fontColor=eaceb2&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=20:373f51,100:c5705d&height=300&section=header&text=Hi%20👋,%20I'm%20Muhammad%20Ammar%20Paracha&fontSize=40&fontColor=eaceb2&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:373f51,100:373f51&height=300&section=footer&text=A%20Passionate%20Flutter%20Developer&fontSize=30&fontColor=eaceb2&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=20:373f51,100:c5705d&height=300&section=footer&text=A%20Passionate%20Flutter%20Developer&fontSize=40&fontColor=eaceb2&animation=fadeIn)
 
 <!-- <h1 align="center">Hi 👋, I'm Muhammad Ammar Paracha</h1>
 <h3 align="center">A passionate Flutter Developer</h3> -->

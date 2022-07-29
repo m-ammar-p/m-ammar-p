@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=20:373f51,100:c5705d&height=300&section=footer&text=A%20Passionate%20Flutter%20Developer&fontSize=40&fontColor=eaceb2&animation=fadeIn)
 
-<!-- <h1 align="center">Hi 👋, I'm Muhammad Ammar Paracha</h1>
-<h3 align="center">A passionate Flutter Developer</h3> -->
+<!-- <h1 align="center">Hi 👋, I'm Muhammad Ammar </h1>
+<h3 align="center">A------------------</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-ammar-p&label=Profile%20views&color=0e75b6&style=flat" alt="m-ammar-p" 
 <span>

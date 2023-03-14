@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=20:373f51,100:c5705d&height=300&section=header&text=Hi%20👋,%20I'm%20Muhammad%20Ammar&fontSize=40&fontColor=eaceb2&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=20:373f51,100:c5705d&height=300&section=footer&text=Web%20Scraper%20and%20Python%20Developer&fontSize=40&fontColor=eaceb2&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=20:373f51,100:c5705d&height=300&section=footer&text=SQA%20Engineer%20and%20Web%20Scraper&fontSize=40&fontColor=eaceb2&animation=fadeIn)
 
 <!-- <h1 align="center">Hi 👋, I'm Muhammad Ammar  </h1>
 <h3 align="center">A------------------</h3> -->
